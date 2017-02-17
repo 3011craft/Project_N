@@ -22,7 +22,7 @@ public class Project_N_Main
     public static final String version = ModInfo.VERSION;
 
     //Proxy:
-    public static final Logger logger = LogManager.getLogger("3011Game's Blaze Addon");
+    public static final Logger logger = LogManager.getLogger("Project N");
     @SidedProxy(clientSide = "com.project_n.client.ClientProxy", serverSide = "com.project_n.common.CommonProxy")
     public static CommonProxy proxy;
 
