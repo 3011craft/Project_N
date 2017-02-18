@@ -1,4 +1,4 @@
-package com.project_n.ModInformation;
+package com.project_n.modInformation;
 
 /**
  * Created by liam on 13/02/2017.

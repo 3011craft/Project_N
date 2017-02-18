@@ -1,6 +1,6 @@
 package com.project_n;
 
-import com.project_n.ModInformation.ModInfo;
+import com.project_n.modInformation.ModInfo;
 import com.project_n.common.CommonProxy;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
@@ -8,8 +8,6 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
-import java.lang.ref.Reference;
 
 /**
  * Created by liam on 31/01/2017.
