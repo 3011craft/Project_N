@@ -244,7 +244,7 @@ Details:
 [18:34:05] [Client thread/TRACE] [FML/]: Recursing into package com
 [18:34:05] [Client thread/TRACE] [FML/]: Recursing into package com.project_n
 [18:34:05] [Client thread/TRACE] [FML/]: Recursing into package com.project_n.common
-[18:34:05] [Client thread/TRACE] [FML/]: Recursing into package com.project_n.ModInformation
+[18:34:05] [Client thread/TRACE] [FML/]: Recursing into package com.project_n.modInformation
 [18:34:05] [Client thread/DEBUG] [FML/]: Identified a mod of type Lcpw/mods/fml/common/Mod; (com.project_n.Project_N_Main) - loading
 [18:34:05] [Client thread/TRACE] [project_n/]: Parsed dependency info : [] [] []
 [18:34:05] [Client thread/DEBUG] [FML/]: Examining file forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar for potential mods
